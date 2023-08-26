@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1656502602 source:c:\users\jainam\downloads\student_report_card_system\student_report_card_system\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<thread>
+	"Project.h"
+
+1656502602 c:\users\jainam\downloads\student_report_card_system\student_report_card_system\include\project.h
+	<bits/stdc++.h>
+
+1656502602 source:c:\users\jainam\downloads\student_report_card_system\student_report_card_system\src\project.cpp
+	"Project.h"
+	<bits/stdc++.h>
+	<iomanip>
+	<conio.h>
+	<sstream>
+	<fstream>
+	<stdlib.h>
+	<chrono>
+	<thread>
+
